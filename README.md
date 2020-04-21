@@ -9,5 +9,5 @@ python3 primes.py
 
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat]
-(prime_distribution.png)
+![GitHub Logo](/prime_distribution.png)
+
